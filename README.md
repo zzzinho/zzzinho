@@ -6,7 +6,7 @@
 - 🥑 Backend Development
 - 🍉 Python, Golang, Java
 - 🥕 Kubernetes, Docker, Terraform
-- 🥕 Microservice Architecture
+- 🍓 Microservice Architecture
 - 🏗 Object-Oriented Programming
 
 ### 📚 Skill Set
