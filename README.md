@@ -3,14 +3,16 @@
 
 ### 📒 Interested In
 - 🥑 Backend Development
-- 🍉 Java/Spring, DRF, Golang
+- 🧀 MLOps
+- 🍉 Python, Golang, Java
+- 🥕 Kubernetes, Docker, Terraform
 - 🥕 Microservice Architecture
 - 🏗 Object-Oriented Programming
 
 ### 📚 Skill Set
-- 🎨 Java | Python | Golang | C++ | C
-- 🖼 Spring | Django/DRF | Gin-Gonic
-- 💾 MySQL | Redis | Kafka 
+- 🎨 Python | Golang | Java | C++ | C
+- 🖼 Spring Boot | Django/DRF | Gin-Gonic | FastAPI
+- 💾 MySQL | Redis | Kafka | Elastic stack | 
 - ☁️ AWS | GCP 
 
 ---
