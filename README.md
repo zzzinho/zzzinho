@@ -12,6 +12,7 @@
 ### 📚 Skill Set
 - 🎨 Python | Golang | Java | C++ | C
 - 🖼 Spring Boot | Django/DRF | Gin-Gonic | FastAPI
+- 🥐 Kubernetes | istio | Knative | kserve 
 - 💾 MySQL | Redis | Kafka | Elastic stack | 
 - ☁️ AWS | GCP 
 
